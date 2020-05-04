@@ -13,7 +13,7 @@ BUT assuming there is a place you get this repo from, include the following to y
 ```xml
 <dependencies>
     <dependency>
-        <groupId>net.volix.bookshelf</groupId>
+        <groupId>dev.volix.lib</groupId>
         <artifactId>brigadier-core</artifactId>
         <version>(latest version)</version>
     </dependency>
